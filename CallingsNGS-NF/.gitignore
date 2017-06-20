@@ -1,0 +1,9 @@
+ngs2017ws.img
+trace*
+timeline*
+dag*
+.git
+.nextflow*
+work
+results
+GenomeAnalysisTK.jar

@@ -1,0 +1,5 @@
+.nextflow*
+*.db
+trace.txt*
+work
+.DS_Store

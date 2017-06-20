@@ -1,0 +1,8 @@
+./cache/ncbi/*
+ncbi/*
+trace.*
+.nextflow*
+work/*
+results/*
+example-data/*
+
